@@ -1,0 +1,1404 @@
+fileFormatVersion: 2
+guid: 4b7d087a20d3f594a8b03fba2201ca15
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4511058153106400031
+    second: Detalhes grama_0
+  - first:
+      213: -2216103804924349849
+    second: Detalhes grama_1
+  - first:
+      213: 7245039606630477379
+    second: Detalhes grama_2
+  - first:
+      213: 2108538204315416689
+    second: Detalhes grama_3
+  - first:
+      213: -1808350962813330819
+    second: Detalhes grama_4
+  - first:
+      213: -2027095200121842750
+    second: Detalhes grama_5
+  - first:
+      213: 8545609506683806181
+    second: Detalhes grama_6
+  - first:
+      213: 1911467972844917130
+    second: Detalhes grama_7
+  - first:
+      213: -7578571423338012596
+    second: Detalhes grama_8
+  - first:
+      213: 4208807829015046118
+    second: Detalhes grama_9
+  - first:
+      213: -9141042126097357010
+    second: Detalhes grama_10
+  - first:
+      213: -6181439696128278523
+    second: Detalhes grama_11
+  - first:
+      213: -5156122341886918912
+    second: Detalhes grama_12
+  - first:
+      213: -2707916417625858994
+    second: Detalhes grama_13
+  - first:
+      213: 601460112907208771
+    second: Detalhes grama_14
+  - first:
+      213: -9054735165213161003
+    second: Detalhes grama_15
+  - first:
+      213: -3595890834006957296
+    second: Detalhes grama_16
+  - first:
+      213: 6954521928809931809
+    second: Detalhes grama_17
+  - first:
+      213: -470487534628495591
+    second: Detalhes grama_18
+  - first:
+      213: 6592279299494926443
+    second: Detalhes grama_19
+  - first:
+      213: 268028689621308664
+    second: Detalhes grama_20
+  - first:
+      213: -6616574578227680010
+    second: Detalhes grama_21
+  - first:
+      213: -3052900265200839970
+    second: Detalhes grama_22
+  - first:
+      213: -5523234798275416897
+    second: Detalhes grama_23
+  - first:
+      213: 8965549551255457886
+    second: Detalhes grama_24
+  - first:
+      213: -6053992599848945114
+    second: Detalhes grama_25
+  - first:
+      213: 1608071634492108067
+    second: Detalhes grama_26
+  - first:
+      213: 1774662742060406666
+    second: Detalhes grama_27
+  - first:
+      213: -1688798006024406274
+    second: Detalhes grama_28
+  - first:
+      213: -8296784912202419153
+    second: Detalhes grama_29
+  - first:
+      213: 2069753889195586228
+    second: Detalhes grama_30
+  - first:
+      213: 4385516988975782220
+    second: Detalhes grama_31
+  - first:
+      213: 8522397117115966897
+    second: Detalhes grama_32
+  - first:
+      213: -1978135666545634426
+    second: Detalhes grama_33
+  - first:
+      213: 7154796559307260413
+    second: Detalhes grama_34
+  - first:
+      213: 2047813229092741972
+    second: Detalhes grama_35
+  - first:
+      213: -4330296656623236305
+    second: Detalhes grama_36
+  - first:
+      213: -5362979852063313575
+    second: Detalhes grama_37
+  - first:
+      213: 421042981603779774
+    second: Detalhes grama_38
+  - first:
+      213: -1032371335169837037
+    second: Detalhes grama_39
+  - first:
+      213: 3316227590868842753
+    second: Detalhes grama_40
+  - first:
+      213: 2171765532939909369
+    second: Detalhes grama_41
+  - first:
+      213: 3837716600167794022
+    second: Detalhes grama_42
+  - first:
+      213: 267565198214847809
+    second: Detalhes grama_43
+  - first:
+      213: 7948774314814139769
+    second: Detalhes grama_44
+  - first:
+      213: 4630298238404185002
+    second: Detalhes grama_45
+  - first:
+      213: 9202840980341761091
+    second: Detalhes grama_46
+  - first:
+      213: 1123244196437580379
+    second: Detalhes grama_47
+  - first:
+      213: -8895488024183866346
+    second: Detalhes grama_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Detalhes grama_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 307
+        width: 52
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1369095d7f7a9e30800000000000000
+      internalID: 4511058153106400031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762b712b451de31e0800000000000000
+      internalID: -2216103804924349849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 88
+        width: 53
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e68d8e22d8b8460800000000000000
+      internalID: 7245039606630477379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 215
+        width: 53
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1787f874358034d10800000000000000
+      internalID: 2108538204315416689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 129
+        width: 55
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a9640616277e6e0800000000000000
+      internalID: -1808350962813330819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_5
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 268
+        width: 53
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c396dec7af4ed3e0800000000000000
+      internalID: -2027095200121842750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_6
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1e61bd19a189670800000000000000
+      internalID: 8545609506683806181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_7
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 46
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8115f07ef5e68a10800000000000000
+      internalID: 1911467972844917130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_8
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 21
+        width: 81
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40e207817183d690800000000000000
+      internalID: -7578571423338012596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_9
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 59
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e72358db60b86a30800000000000000
+      internalID: 4208807829015046118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_10
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 275
+        width: 53
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27e51d1e9e742180800000000000000
+      internalID: -9141042126097357010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_11
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 129
+        width: 53
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50086c7d85d173aa0800000000000000
+      internalID: -6181439696128278523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_12
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 29
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fff516c06c178b0800000000000000
+      internalID: -5156122341886918912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_13
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 234
+        width: 53
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c56f58d5c8b6ad0800000000000000
+      internalID: -2707916417625858994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_14
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 36
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348866839c0d85800800000000000000
+      internalID: 601460112907208771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_15
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 52
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d94b3e575e175280800000000000000
+      internalID: -9054735165213161003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_16
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 90
+        width: 53
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013aeeb9654d81ec0800000000000000
+      internalID: -3595890834006957296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_17
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 299
+        width: 43
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124616df8dc638060800000000000000
+      internalID: 6954521928809931809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_18
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 41
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f183b741e7879f0800000000000000
+      internalID: -470487534628495591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_19
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 57
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b685e82781b7c7b50800000000000000
+      internalID: 6592279299494926443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_20
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 192
+        width: 53
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4dd725caa38b300800000000000000
+      internalID: 268028689621308664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_21
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 30
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcebda2a743d24a0800000000000000
+      internalID: -6616574578227680010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_22
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 46
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2120e326be1a5d0800000000000000
+      internalID: -3052900265200839970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_23
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 306
+        width: 53
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbca7bdd6378953b0800000000000000
+      internalID: -5523234798275416897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_24
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 67
+        width: 53
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e509ebab0d70c6c70800000000000000
+      internalID: 8965549551255457886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_25
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 35
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62af82d4ec5ebfba0800000000000000
+      internalID: -6053992599848945114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_26
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 51
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32da843b1a4015610800000000000000
+      internalID: 1608071634492108067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_27
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 201
+        width: 49
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8791a08c5ed0a810800000000000000
+      internalID: 1774662742060406666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_28
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 54
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efaf681492f2098e0800000000000000
+      internalID: -1688798006024406274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_29
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 70
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24ba52a416ebdc80800000000000000
+      internalID: -8296784912202419153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_30
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 340
+        width: 53
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b27cf9323e39bc10800000000000000
+      internalID: 2069753889195586228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_31
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 123
+        width: 53
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49975c477c7cdc30800000000000000
+      internalID: 4385516988975782220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_32
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 78
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5a2804603a54670800000000000000
+      internalID: 8522397117115966897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_33
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 94
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683540687104c84e0800000000000000
+      internalID: -1978135666545634426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_34
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 0
+        width: 48
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df142bd1091fa4360800000000000000
+      internalID: 7154796559307260413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_35
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 125
+        width: 53
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4532b66384b4b6c10800000000000000
+      internalID: 2047813229092741972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_36
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 81
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b09e93222b7e3c0800000000000000
+      internalID: -4330296656623236305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_37
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 97
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95170342d3ed295b0800000000000000
+      internalID: -5362979852063313575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_38
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 97
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb42aa96c58d7d500800000000000000
+      internalID: 421042981603779774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_39
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 113
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318f7ea8db74ca1f0800000000000000
+      internalID: -1032371335169837037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_40
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 115
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109361c7c6b950e20800000000000000
+      internalID: 3316227590868842753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_41
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 131
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8f156ee39a32e10800000000000000
+      internalID: 2171765532939909369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_42
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 140
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6650f9d2aee424530800000000000000
+      internalID: 3837716600167794022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_43
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 156
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d5ad1512596b300800000000000000
+      internalID: 267565198214847809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_44
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 138
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97dee3aff18bf4e60800000000000000
+      internalID: 7948774314814139769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_45
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 0
+        width: 2788
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aabc23827bf124040800000000000000
+      internalID: 4630298238404185002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_46
+      rect:
+        serializedVersion: 2
+        x: 5356
+        y: 0
+        width: 5271
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344ada5ec1f07bf70800000000000000
+      internalID: 9202840980341761091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_47
+      rect:
+        serializedVersion: 2
+        x: 10598
+        y: 290
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a5eac35a0969f00800000000000000
+      internalID: 1123244196437580379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detalhes grama_48
+      rect:
+        serializedVersion: 2
+        x: 10686
+        y: 2
+        width: 14
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c77c6b5c0ec8480800000000000000
+      internalID: -8895488024183866346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Detalhes grama_0: 4511058153106400031
+      Detalhes grama_1: -2216103804924349849
+      Detalhes grama_10: -9141042126097357010
+      Detalhes grama_11: -6181439696128278523
+      Detalhes grama_12: -5156122341886918912
+      Detalhes grama_13: -2707916417625858994
+      Detalhes grama_14: 601460112907208771
+      Detalhes grama_15: -9054735165213161003
+      Detalhes grama_16: -3595890834006957296
+      Detalhes grama_17: 6954521928809931809
+      Detalhes grama_18: -470487534628495591
+      Detalhes grama_19: 6592279299494926443
+      Detalhes grama_2: 7245039606630477379
+      Detalhes grama_20: 268028689621308664
+      Detalhes grama_21: -6616574578227680010
+      Detalhes grama_22: -3052900265200839970
+      Detalhes grama_23: -5523234798275416897
+      Detalhes grama_24: 8965549551255457886
+      Detalhes grama_25: -6053992599848945114
+      Detalhes grama_26: 1608071634492108067
+      Detalhes grama_27: 1774662742060406666
+      Detalhes grama_28: -1688798006024406274
+      Detalhes grama_29: -8296784912202419153
+      Detalhes grama_3: 2108538204315416689
+      Detalhes grama_30: 2069753889195586228
+      Detalhes grama_31: 4385516988975782220
+      Detalhes grama_32: 8522397117115966897
+      Detalhes grama_33: -1978135666545634426
+      Detalhes grama_34: 7154796559307260413
+      Detalhes grama_35: 2047813229092741972
+      Detalhes grama_36: -4330296656623236305
+      Detalhes grama_37: -5362979852063313575
+      Detalhes grama_38: 421042981603779774
+      Detalhes grama_39: -1032371335169837037
+      Detalhes grama_4: -1808350962813330819
+      Detalhes grama_40: 3316227590868842753
+      Detalhes grama_41: 2171765532939909369
+      Detalhes grama_42: 3837716600167794022
+      Detalhes grama_43: 267565198214847809
+      Detalhes grama_44: 7948774314814139769
+      Detalhes grama_45: 4630298238404185002
+      Detalhes grama_46: 9202840980341761091
+      Detalhes grama_47: 1123244196437580379
+      Detalhes grama_48: -8895488024183866346
+      Detalhes grama_5: -2027095200121842750
+      Detalhes grama_6: 8545609506683806181
+      Detalhes grama_7: 1911467972844917130
+      Detalhes grama_8: -7578571423338012596
+      Detalhes grama_9: 4208807829015046118
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
